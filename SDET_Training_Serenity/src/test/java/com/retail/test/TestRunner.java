@@ -1,4 +1,4 @@
-package com.makemytrip.test;
+package com.retail.test;
 
 import org.junit.runner.RunWith;
 
@@ -14,7 +14,7 @@ import net.serenitybdd.cucumber.CucumberWithSerenity;
 		,features= {"features"}
 		,glue = {"com.mmt.stepdefinations"}
 		//,dryRun = true
-		,tags="@SearchFlights"
+		,tags="@retailm"
 		)
 public class TestRunner {
 
