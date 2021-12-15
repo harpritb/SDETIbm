@@ -1,2 +1,2 @@
-# FST_Training
+# SDETIbm
 This repo is created for training only
